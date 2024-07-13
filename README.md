@@ -1,5 +1,5 @@
 ## About
-Hi, I'm Mohammadsajad Rahmani, a Computer Engineering student and an aspiring Django developer. I have a strong interest in all things related to computers and I'm constantly seeking to learn and improve.
+Hi, I'm Mohammadsajjad Rahmani, a Computer Engineering student and an aspiring Django developer. I have a strong interest in all things related to computers and I'm constantly seeking to learn and improve.
 
 ## Technologies & Tools
 - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
